@@ -1,0 +1,16 @@
+Foam tightener.STL					x2
+
+Micro switches holder.STL				x1
+
+Z-axis platform.STL					x1
+
+Z-axis motor mounting bracket.STL			x1
+
+X-axis bracket 3 (v2 for 5mm pulleys).STL		x1
+
+X-axis bracket 2.STL					x1
+
+X-axis stepper mounting bracket.STL			x1
+
+Shaft Coupler - 5mm to 5mm (v2 for 5mm pulleys).STL	x2	
+
